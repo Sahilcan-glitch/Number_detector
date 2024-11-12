@@ -25,13 +25,6 @@ This project uses deep learning to recognize handwritten digits from the MNIST d
 2. **Predict**: The app preprocesses your drawing and predicts the digit using a TensorFlow model.
 3. **Real-Time Feedback**: See the prediction instantly.
 
----
-
-## 🖼️ **Screenshots**
-
-### **Canvas Example**
-
-![Canvas Example](images/example_digit.png)
 
 ---
 
@@ -52,12 +45,6 @@ Install them via `requirements.txt`.
 ## 🤝 **Contributing**
 
 Contributions are welcome! Fork the repository, create a branch, and submit a pull request.
-
----
-
-## 🛡️ **License**
-
-This project is licensed under the MIT License.
 
 ---
 
